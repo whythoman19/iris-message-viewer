@@ -4,8 +4,8 @@
   },
   "objectscript.conn": {
     "active": true,
-    "username": "_SYSTEM",
-    "password": "SYS",
+    "username": whythoman19,
+    "password": Jbjb192,
     "ns": "MSGVIEWER",
     "docker-compose": {
       "service": "iris",
